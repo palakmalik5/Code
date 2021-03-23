@@ -1,3 +1,5 @@
+package src;
+
 class Code {
 
     String dest(String mnemonic) {
